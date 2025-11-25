@@ -8,7 +8,7 @@ I am an AI Engineer with experience in deep learning, machine learning, Artifici
 - 📊 Data Analyst, OYO - I worked as a Data Analyst from April 2019 to January 2020.
 
 ### Currently
-- 🌱 I’m currently learning Large Language Moddels.
+- 🌱 I’m currently learning Large Language Models.
 - 👯 I’m looking to collaborate on projects/internships/fulltime roles.
 - 📫 How to reach me: sivanipanigrahi26@gmail.com.
 - 😄 Pronouns: she/her
