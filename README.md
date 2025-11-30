@@ -1,17 +1,17 @@
-## Hi there :) I’m Sivani Panigrahi 👋
+## Hi there,  I’m Sivani Panigrahi :)
 
 I am an AI Engineer with experience in deep learning, machine learning, Artificial Intelligence and natural language processing (NLP). I have a Master of Science in Business Analytics from the University of North Texas.
 
 ### Professional Experience
-- AI Engineer @ DriverAI - I worked as an AI Engineer Intern from August 2025 to Present.
-- ML Engineer @ Amazon - I worked as a ML Engineer from August 2020 to December 2023.
-- Data Analyst @ OYO - I worked as a Data Analyst from April 2019 to January 2020.
+- **AI Engineer @ DriverAI** - I worked as an AI Engineer Intern from August 2025 to Present.
+- **ML Engineer @ Amazon** - I worked as a ML Engineer from August 2020 to December 2023.
+- **Data Analyst @ OYO** - I worked as a Data Analyst from April 2019 to January 2020.
 
 ### Currently
--  I’m currently learning Large Language Models.
--  I’m looking to collaborate on projects/internships/fulltime roles.
--  How to reach me: sivanipanigrahi26@gmail.com.
--  Pronouns: she/her
+-  I’m currently learning _Large Language Models_.
+-  I’m looking to collaborate on _projects/internships/fulltime_ roles.
+-  **How to reach me:** sivanipanigrahi26@gmail.com.
+-  **Pronouns:** she/her
 
 ### Contact Me
 [![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:sivanipanigrahi26@gmail.com)
