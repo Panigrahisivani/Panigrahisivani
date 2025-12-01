@@ -14,9 +14,9 @@ Currently pursuing a **Master of Science in Business Analytics at UNT**, with st
 ---
 
 ## 🔥 Professional Experience
-- 🚀 **AI Engineer @ DriverAI** — Building product-recognition pipelines (YOLOv8/v9 + EfficientNet/ViT), AWS S3 pipelines, large-scale augmentation, SageMaker training  
-- 🤖 **ML Engineer @ Amazon** — Worked on ML model development & optimization (Aug 2020 – Dec 2023)  
-- 📊 **Data Analyst @ OYO** — Data analytics, KPI tracking, and decision intelligence
+- 🚀 **AI Engineer @ DriverAI** - Building product-recognition pipelines (YOLOv8/v9 + EfficientNet/ViT), AWS S3 pipelines, large-scale augmentation, SageMaker training  
+- 🤖 **ML Engineer @ Amazon** - Worked on ML model development & optimization (Aug 2020 – Dec 2023)  
+- 📊 **Data Analyst @ OYO** - Data analytics, KPI tracking, and decision intelligence
 
 ---
 
@@ -30,7 +30,7 @@ Currently pursuing a **Master of Science in Business Analytics at UNT**, with st
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/panigrahisivani">
+  <a href="https://www.linkedin.com/in/sivani-panigrahi-3767461a0/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:sivanipanigrahi26@gmail.com">
@@ -69,10 +69,10 @@ Currently pursuing a **Master of Science in Business Analytics at UNT**, with st
 ---
 
 ## 🗂️ Featured Projects
-- 🔵 **Batch Gradient Descent (From Scratch)** — Implementation with visualizations & comparisons  
-- 🟢 **UNT Police Safety Analytics** — Geospatial ML + crime heatmaps  
-- 🟣 **DriverAI Product Recognition System** — YOLO + EfficientNet pipeline  
-- 🟠 **UNT Smart Draft – AI Email Assistant** — Agentic AI + Selenium + Voice automation  
+- 🔵 **Batch Gradient Descent (From Scratch)** - Implementation with visualizations & comparisons  
+- 🟢 **UNT Police Safety Analytics** - Geospatial ML + crime heatmaps  
+- 🟣 **DriverAI Product Recognition System** - YOLO + EfficientNet pipeline  
+- 🟠 **UNT Smart Draft - AI Email Assistant** - Agentic AI + Selenium + Voice automation  
 
 ---
 
