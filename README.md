@@ -23,7 +23,7 @@ Currently pursuing a **Master of Science in Business Analytics at UNT**, with st
 ## 🎯 Currently
 - 📘 Learning & fine-tuning **Large Language Models**  
 - 🤝 Open to **AI/ML roles, internships, and full-time opportunities**  
-- 📬 Reach me at **sivanipanigrahi26@gmail.com**  
+- 📬 Reach me at **https://www.linkedin.com/in/sivani-panigrahi-3767461a0/**  
 - 🌈 Pronouns: **she/her**  
 
 ---
