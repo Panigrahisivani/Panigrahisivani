@@ -16,7 +16,7 @@ Currently pursuing a **Master of Science in Business Analytics at UNT**, with st
 ## 🔥 Professional Experience
 - 🚀 **AI Engineer @ DriverAI** - Building product-recognition pipelines (YOLOv8/v9 + EfficientNet/ViT), AWS S3 pipelines, large-scale augmentation, SageMaker training  
 - 🤖 **ML Engineer @ Amazon** - Worked on ML model development & optimization (Aug 2020 – Dec 2023)  
-- 📊 **Data Analyst @ OYO** - Data analytics, KPI tracking, and decision intelligence
+- 📊 **Senior Data Analyst @ OYO** - Data analytics, KPI tracking, and decision intelligence
 
 ---
 
