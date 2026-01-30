@@ -9,7 +9,7 @@
 ### 💡 AI Engineer • Machine Learning • Data Engineering • LLMs
 
 I’m an **AI Engineer** with hands-on experience in deep learning, computer vision, large language models, and scalable data pipelines.  
-Currently pursuing a **Master of Science in Business Analytics at UNT**, with strong experience across **ML engineering, data analytics, and AI product development**.
+Currently pursuing a **Master of Science in Business Analytics at UNT**, with strong experience across **ML engineering, data analytics, and AI product development.**
 
 ---
 
